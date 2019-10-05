@@ -3,6 +3,7 @@
 #include "CoreMinimal.h"
 #include "Engine/DataAsset.h"
 #include <Engine/StaticMesh.h>
+#include <Engine/UserDefinedStruct.h>
 #include "Item.generated.h"
 
 UENUM(BlueprintType)
@@ -38,8 +39,8 @@ public:
 	float ConsumptionDamage;
 };
 
-UCLASS()
-class LD45_API UItem : public UDataAsset
+UCLASS(BlueprintType, Blueprintable)
+class LD45_API UItem : public UUserDefinedStruct
 {
 	GENERATED_BODY()
 
@@ -59,5 +60,4 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	FItemLocation ItemLocation;
 };
-
 
