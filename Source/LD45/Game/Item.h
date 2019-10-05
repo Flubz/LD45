@@ -35,7 +35,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	FString EdiblityName;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
-	int32 ConsumptionDamage;
+	float ConsumptionDamage;
 };
 
 UCLASS()
@@ -49,7 +49,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	FString ItemDescription;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
-	int32 ItemCost;
+	float ItemCost;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	UStaticMesh* ItemMesh;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
