@@ -1,0 +1,18 @@
+# UE4 Project directories to ignore
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+# /Build/
+/.vs/
+/Screenshots/
+
+# Visual Studio solutions
+# /*.sln
+/*.sdf
+/*.opensdf
+/*.suo
+
+# Plugin directories to ignore
+/Plugins/*/Intermediate/
+/Plugins/*/Binaries/
