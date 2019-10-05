@@ -1,6 +1,6 @@
-#include "LD45PlayerControllerBase.h"
+#include "Inventory.h"
 
-ALD45PlayerControllerBase::ALD45PlayerControllerBase()
+AInventory::AInventory()
 {
 
 }

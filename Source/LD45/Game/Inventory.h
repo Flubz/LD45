@@ -1,8 +1,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "LD45PlayerControllerBase.generated.h"
 #include <GameFramework/Actor.h>
+#include "Inventory.generated.h"
 
 UCLASS()
 class LD45_API AInventory : public AActor
