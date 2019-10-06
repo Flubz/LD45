@@ -14,5 +14,5 @@
 /*.suo
 
 # Plugin directories to ignore
-/Plugins/*/Intermediate/
-/Plugins/*/Binaries/
+#/Plugins/*/Intermediate/
+#/Plugins/*/Binaries/
