@@ -37,6 +37,8 @@ public:
 	UItemEdibility* ItemEdibilityType;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	FItemLocation ItemLocation;
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	int32 ItemInitialCount;
 };
 
 UCLASS()
