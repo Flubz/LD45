@@ -1,17 +1,17 @@
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSectionTemplate.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSection.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
-C:\Users\RiceFrancesca\Documents\LudumDare45\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSection.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
+S:\Users\Flubz\Documents\_Flubz\Unreal Projects\LD45\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSectionTemplate.h
